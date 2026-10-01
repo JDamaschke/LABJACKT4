@@ -84,7 +84,9 @@ The STATUS LED is normally controlled automatically by the LabJack. Manual LED c
 
 ## Project status
 
-Initial working version.
+## Project status
+
+Version 1.0.0 – initial working version.
 
 The module has been tested on:
 
