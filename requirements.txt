@@ -1,0 +1,4 @@
+# Python dependencies for the LABJACKT4 project
+# Tested with Python 3.11 on Debian 12 (Bookworm), ARM64 / aarch64
+
+pymodbus==3.3.0
